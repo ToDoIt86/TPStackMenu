@@ -1,0 +1,878 @@
+TTrafficPolice
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.o /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.o /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.o /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.o /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.o /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice normal i386
+cCpResource TrafficPolice/images/actions@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/actions@2x.png
+cCopyStringsFile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/en.lproj/InfoPlist.strings TrafficPolice/en.lproj/InfoPlist.strings
+cCompileXIB /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.xib
+cCpResource TrafficPolice/images/gear@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/gear@2x.png
+cCpResource TrafficPolice/images/speech@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/speech@2x.png
+cCpResource TrafficPolice/images/twitter@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/twitter@2x.png
+cCpResource TrafficPolice/images/magnifier@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/magnifier@2x.png
+cCompileAssetCatalog /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/Images.xcassets
+cProcessInfoPlistFile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/Info.plist /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Info.plist
+cGenerateDSYMFile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice
+cTouch /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534DE8340000000000000198
+t1397614644
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005331435A00000000000003B4
+t1395737434
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005331435F000000000000019E
+t1395737439
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053314362000000000058E0E0
+t1395737442
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005331436200000000005B82F0
+t1395737442
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534DE8130000000000446820
+t1397614611
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005331436200000000003599D0
+t1395737442
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005331436200000000002FC3B0
+t1395737442
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053314362000000000004B000
+t1395737442
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053314364000000000088D8C0
+t1395737444
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533143640000000000037680
+t1395737444
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053314365000000000048F720
+t1395737445
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053314365000000000013FD70
+t1395737445
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533143680000000001F1DE10
+t1395737448
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005331437000000000002BC360
+t1395737456
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533143760000000000002338
+t1395737462
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053314376000000000008D370
+t1395737462
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533143760000000000392E20
+t1395737462
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005332ACBA00000000000141F0
+t1395829946
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533143760000000000014A80
+t1395737462
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533143760000000000033BA0
+t1395737462
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053314376000000000001CFB0
+t1395737462
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053314377000000000001B2B0
+t1395737463
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005331437700000000000C9570
+t1395737463
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533143770000000000063280
+t1395737463
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533143770000000000008880
+t1395737463
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533143770000000000015080
+t1395737463
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005331437700000000000230F0
+t1395737463
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053314377000000000000E380
+t1395737463
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533143770000000000089380
+t1395737463
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533143770000000000017320
+t1395737463
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533143770000000000039CD0
+t1395737463
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053314377000000000000B0B0
+t1395737463
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533143770000000000167E80
+t1395737463
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005331437700000000000106A0
+t1395737463
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053314377000000000001CE40
+t1395737463
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005331437700000000000740C0
+t1395737463
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053314377000000000006CA60
+t1395737463
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053314377000000000001BAD0
+t1395737463
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533143770000000000084A20
+t1395737463
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533143880000000000000ADC
+t1395737480
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534DE813000000000000514C
+t1397614611
+s20812
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.h
+c000000005365AF1B00000000000000E1
+t1399172891
+s225
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.m
+c000000005365F1500000000000000625
+t1399189840
+s1573
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.xib
+c000000005365F0B3000000000000099B
+t1399189683
+s2459
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-ebmmmbxwyvifjjaomoofzmiraxfb/TrafficPolice-Prefix.pch.pch
+t1398918137
+s116892
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch.pch
+t1399186720
+s116892
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.o
+t1399186720
+s64572
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.o
+t1399189840
+s51508
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.o
+t1399189831
+s60004
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.o
+t1399189543
+s50780
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TrafficPolice.LinkFileList
+c000000005365B0410000000000000386
+t1399173185
+s902
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.o
+t1399186720
+s3548
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/assetcatalog_dependencies.txt
+t1399186721
+s489
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/assetcatalog_generated_info.plist
+t1399186721
+s585
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app
+t1399189840
+s510
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM
+t1399189831
+s102
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/DashboardVC.nib
+t1399189683
+s136
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/Info.plist
+t1399186722
+s1039
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/PkgInfo
+t1399186722
+s8
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice
+t1399189840
+s41464
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/actions@2x.png
+t1399173185
+s2534
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/en.lproj/InfoPlist.strings
+t1398918137
+s42
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/gear@2x.png
+t1399173185
+s3453
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/magnifier@2x.png
+t1399173185
+s2858
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/speech@2x.png
+t1399173185
+s2697
+
+N/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/twitter@2x.png
+t1399173185
+s2970
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.h
+c000000005361B1790000000000000125
+t1398911353
+s293
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.m
+c000000005365B08A000000000000091C
+t1399173258
+s2332
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/Images.xcassets
+c000000005361B1790000000000000088
+t1398911353
+s136
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.h
+c000000005365E7C2000000000000025B
+t1399187394
+s603
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m
+c000000005365F147000000000000114A
+t1399189831
+s4426
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.h
+c000000005365D9F50000000000000152
+t1399183861
+s338
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m
+c000000005365F0270000000000000C17
+t1399189543
+s3095
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Info.plist
+c000000005361B1790000000000000495
+t1398911353
+s1173
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Prefix.pch
+c000000005361B1790000000000000158
+t1398911353
+s344
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/en.lproj/InfoPlist.strings
+c000000005361B179000000000000002D
+t1398911353
+s45
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/actions@2x.png
+c0000000051AB546A00000000000009E6
+t1370182762
+s2534
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/gear@2x.png
+c0000000051AB546A0000000000000D7D
+t1370182762
+s3453
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/magnifier@2x.png
+c0000000051AB546A0000000000000B2A
+t1370182762
+s2858
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/speech@2x.png
+c0000000051AB546A0000000000000A89
+t1370182762
+s2697
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/twitter@2x.png
+c0000000051AB546A0000000000000B9A
+t1370182762
+s2970
+
+N/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/main.m
+c000000005361B1790000000000000161
+t1398911353
+s353
+
+N/usr/lib/libSystem.B.dylib
+c000000005271FC1D000000000000E6D0
+t1383201821
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005271FC290000000000012A00
+t1383201833
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005271FC11000000000002E320
+t1383201809
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005271FC1D0000000000021860
+t1383201821
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005271FC29000000000001B620
+t1383201833
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005271FC2900000000000BD920
+t1383201833
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c000000005332ACBA00000000000141F0
+t1395829946
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005271FC29000000000000A120
+t1383201833
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005332ACBA000000000001D550
+t1395829946
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005271FC290000000000014EE0
+t1383201833
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005271FC2B0000000000010380
+t1383201835
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005271FC2B000000000000C4C0
+t1383201835
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005271FC2900000000000357A0
+t1383201833
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005271FC29000000000000C070
+t1383201833
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c000000005332AC890000000000168D00
+t1395829897
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005332ACB50000000000010630
+t1395829941
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005332ACBB000000000001DF10
+t1395829947
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005271FC1D0000000000075B00
+t1383201821
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005357B072000000000007CC70
+t1398255730
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005271FC1D00000000000766C0
+t1383201821
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005332ACBA0000000000044DC0
+t1395829946
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005271FC1D0000000000021FA0
+t1383201821
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005332ACBA000000000002D920
+t1395829946
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005271FC2A000000000001E570
+t1383201834
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005332ACA5000000000000CC70
+t1395829925
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005271FC25000000000000C3F0
+t1383201829
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005271FC2A00000000000199F0
+t1383201834
+s104944
+
+CBuild AST from /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.m
+r0
+
+CBuild AST from /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.m
+r0
+
+CBuild AST from /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m
+r0
+
+CBuild AST from /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m
+r0
+
+CBuild AST from /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf2996cd02816b941^68ea6dd02816b941^---0#1#1#--18"Check dependencies36"F278337A-1477-4E1A-B185-3BCEA0293FFC-
+
+CCompileAssetCatalog /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/Images.xcassets
+s420879521.052447
+e420879521.787117
+r1
+xCompileAssetCatalog
+x/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app
+x/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/LaunchImage-700-568h@2x.png
+o/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/LaunchImage-568h@2x.png
+o/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CompileAssetCatalog DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app TrafficPolice/Images.xcassets130"CompileAssetCatalog DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app TrafficPolice/Images.xcassets027e0da11c16b941^0681c9a11c16b941^-517"/* com.apple.actool.compilation-results *//Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/LaunchImage-700-568h@2x.png/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/LaunchImage-568h@2x.png/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@88"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/Images.xcassets/0000000000000000^1270"CompileAssetCatalog DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app TrafficPolice/Images.xcassets    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 6.0 --target-device iphone --compress-pngs --compile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app /Users/LiHong/开发/IOS/TrafficPolice/TrafficPol36"46105939-3445-4D0B-800D-85F89619369D-
+bC2D551A0-8D13-43F2-B49E-4EB2C9FB380B
+
+CCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.o /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420879520.891496
+e420879520.980810
+r1
+xCompileC
+xDerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.o
+x/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.m
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.h
+d/Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.m246"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.o TrafficPolice/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler724ee4a01c16b941^1617fba01c16b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/AppDelegate.m0000000000000000^4099"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.o TrafficPolice/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/开发/IOS/TrafficPolice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-generated-files.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-own-target-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-all-target-headers.hmap -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-project-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources/i386 -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources -F/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator -include /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.dia -c /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.m -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimu36"3CB64A3B-EDBC-410E-87EB-A1688C0E24F3-
+bC2D551A0-8D13-43F2-B49E-4EB2C9FB380B
+
+CCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.o /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420882640.426063
+e420882640.485276
+r1
+xCompileC
+xDerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.o
+x/Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.m
+d/Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.h
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.m232"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.o DashboardVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercf2c6dd02816b941^8e3c7cd02816b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/DashboardVC.m0000000000000000^4071"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.o DashboardVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/开发/IOS/TrafficPolice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-generated-files.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-own-target-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-all-target-headers.hmap -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-project-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources/i386 -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources -F/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator -include /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.d --serialize-diagnostics /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.dia -c /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.m -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimu36"C9D23117-76C7-4170-B3C4-2EC377A873AA-
+bC06F5026-1B98-4D75-85B2-B3D420A37D38
+
+CCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.o /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420882631.644637
+e420882631.736383
+r1
+xCompileC
+xDerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.o
+x/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.h
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m246"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.o TrafficPolice/TPStackMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7426a5c72816b941^1b85bcc72816b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m0000000000000000^4099"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.o TrafficPolice/TPStackMenu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/开发/IOS/TrafficPolice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-generated-files.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-own-target-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-all-target-headers.hmap -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-project-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources/i386 -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources -F/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator -include /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.d --serialize-diagnostics /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.dia -c /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenu.m -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimu36"828BA5A3-CFDF-468D-9EA3-37B063602E89-
+bE88D54B8-9572-494E-BF91-8F612FD3B6A7
+
+CCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.o /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420882343.894978
+e420882343.973662
+r1
+xCompileC
+xDerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.o
+x/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m254"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.o TrafficPolice/TPStackMenuItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler433de5a72716b941^624cfaa72716b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m0000000000000000^4123"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.o TrafficPolice/TPStackMenuItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/开发/IOS/TrafficPolice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-generated-files.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-own-target-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-all-target-headers.hmap -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-project-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources/i386 -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources -F/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator -include /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.d --serialize-diagnostics /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.dia -c /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TPStackMenuItem.m -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulato36"3331F1F5-BD02-44AA-A4A0-0C695D2BD376-
+bBE93A33F-2FF9-4304-BB3B-74AC1B0C20CF
+
+CCompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.o /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420879520.893171
+e420879520.938496
+r1
+xCompileC
+xDerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.o
+x/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/main.m
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/main.m232"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.o TrafficPolice/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler05c0e4a01c16b941^0f42f0a01c16b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/main.m0000000000000000^4057"CompileC DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.o TrafficPolice/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/开发/IOS/TrafficPolice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-generated-files.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-own-target-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-all-target-headers.hmap -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-project-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources/i386 -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources -F/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator -include /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch -MMD -MT dependencies -MF /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.dia -c /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/main.m -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iph36"D91313D7-357C-487D-B55A-3A02D88AC3E2-
+bC2D551A0-8D13-43F2-B49E-4EB2C9FB380B
+
+CCompileXIB /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.xib
+s420882483.478566
+e420882483.570131
+r1
+xCompileXIB
+x/Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compiling /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.xib26"CompileXIB DashboardVC.xibe6967a332816b941^a07092332816b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/DashboardVC.xib0000000000000000^764"CompileXIB DashboardVC.xib    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.0 --output-format human-readable-text --compile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/DashboardVC.nib /Users/LiHong/开发/IOS/TrafficPolice/DashboardVC.xib36"6986A4D0-1A9B-4743-83CA-8D1EB080CF80-
+b3265649D-943F-4C9A-B1E3-B70B47D35D7F
+
+CCopyStringsFile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/en.lproj/InfoPlist.strings TrafficPolice/en.lproj/InfoPlist.strings
+s420610937.218385
+e420610937.239539
+r1
+xCopyStringsFile
+x/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/en.lproj/InfoPlist.strings
+xTrafficPolice/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy TrafficPolice/en.lproj/InfoPlist.strings164"CopyStringsFile DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/en.lproj/InfoPlist.strings TrafficPolice/en.lproj/InfoPlist.stringsa5f537790312b941^785f3d790312b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/en.lproj/InfoPlist.strings0000000000000000^669"CopyStringsFile DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/en.lproj/InfoPlist.strings TrafficPolice/en.lproj/InfoPlist.strings    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/en.lproj -- TrafficPolice/en.lproj/InfoPlist.strings36"B4723893-421A-4AF5-90A9-89EC0D0958EC-
+b6740335D-95F1-446E-94BA-6D62E43A9409
+
+CCpResource TrafficPolice/images/actions@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/actions@2x.png
+s420865985.458125
+e420865985.459014
+r1
+xCpResource
+xTrafficPolice/images/actions@2x.png
+xDerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/actions@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/actions@2x.png142"CpResource TrafficPolice/images/actions@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/actions@2x.pngca5475c1e715b941^e4a375c1e715b941^---0#0#1#-19%DVTDocumentLocation2@153"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/actions@2x.png003498d1dcffdf42^691"CpResource TrafficPolice/images/actions@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/actions@2x.png    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/actions@2x.png /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app36"EF720BF5-6D08-44D9-A1D6-42BFB8EB73F4-
+bD11F09C1-D586-45E9-BA4C-A06937C084FF
+
+CCpResource TrafficPolice/images/gear@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/gear@2x.png
+s420865985.458871
+e420865985.460075
+r1
+xCpResource
+xTrafficPolice/images/gear@2x.png
+xDerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/gear@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/gear@2x.png136"CpResource TrafficPolice/images/gear@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/gear@2x.png849e75c1e715b941^1fd875c1e715b941^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/gear@2x.png003498d1dcffdf42^682"CpResource TrafficPolice/images/gear@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/gear@2x.png    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/gear@2x.png /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app36"42E682B7-1706-484A-984E-1E6D2BAFA611-
+bD11F09C1-D586-45E9-BA4C-A06937C084FF
+
+CCpResource TrafficPolice/images/magnifier@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/magnifier@2x.png
+s420865985.460210
+e420865985.461250
+r1
+xCpResource
+xTrafficPolice/images/magnifier@2x.png
+xDerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/magnifier@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/magnifier@2x.png146"CpResource TrafficPolice/images/magnifier@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/magnifier@2x.png46ea75c1e715b941^121576c1e715b941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/magnifier@2x.png003498d1dcffdf42^697"CpResource TrafficPolice/images/magnifier@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/magnifier@2x.png    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/magnifier@2x.png /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app36"64EA4C39-9B72-4C8D-86CC-3EAE12531FF5-
+bD11F09C1-D586-45E9-BA4C-A06937C084FF
+
+CCpResource TrafficPolice/images/speech@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/speech@2x.png
+s420865985.458911
+e420865985.460434
+r1
+xCpResource
+xTrafficPolice/images/speech@2x.png
+xDerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/speech@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Copy DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/speech@2x.png140"CpResource TrafficPolice/images/speech@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/speech@2x.pnge3a775c1e715b941^08e975c1e715b941^---0#0#1#-19%DVTDocumentLocation2@152"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/speech@2x.png003498d1dcffdf42^688"CpResource TrafficPolice/images/speech@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/speech@2x.png    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/speech@2x.png /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app36"F10E7A13-4ECF-4682-B518-5FA51BA61F2C-
+bD11F09C1-D586-45E9-BA4C-A06937C084FF
+
+CCpResource TrafficPolice/images/twitter@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/twitter@2x.png
+s420865985.459274
+e420865985.460987
+r1
+xCpResource
+xTrafficPolice/images/twitter@2x.png
+xDerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/twitter@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/twitter@2x.png142"CpResource TrafficPolice/images/twitter@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/twitter@2x.pnga4c575c1e715b941^a8fe75c1e715b941^---0#0#1#-19%DVTDocumentLocation2@153"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/twitter@2x.png003498d1dcffdf42^691"CpResource TrafficPolice/images/twitter@2x.png DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/twitter@2x.png    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/images/twitter@2x.png /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app36"C15BC580-9D79-4E99-BF25-018FE4549D13-
+bD11F09C1-D586-45E9-BA4C-A06937C084FF
+
+CGenerateDSYMFile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice
+s420882640.522216
+e420882640.540967
+r1
+xGenerateDSYMFile
+x/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM
+x/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM197"GenerateDSYMFile DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice6ebe85d02816b941^567d8ad02816b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM/0000000000000000^801"GenerateDSYMFile DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app.dSYM36"3AB80765-E1B8-4C28-9FCF-9C04EB88E6AF-
+bC06F5026-1B98-4D75-85B2-B3D420A37D38
+
+CLd /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice normal i386
+s420882640.486809
+e420882640.520019
+r1
+xLd
+x/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice
+xnormal
+xi386
+d/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TrafficPolice.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/AppDelegate.o
+d/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenu.o
+d/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TPStackMenuItem.o
+d/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/main.o
+d/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/DashboardVC.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice109"Ld DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice normal i38615ad7cd02816b941^042185d02816b941^---0#0#1#--1581"Ld DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/TrafficPolice normal i386    cd /Users/LiHong/开发/IOS/TrafficPolice    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator -F/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator -filelist /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TrafficPolice.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/Objects-normal/i386/TrafficPolice_dependency_info.dat -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficP36"0186D6C4-A5F1-415F-8A6E-1DBBD6ED5999-
+bC06F5026-1B98-4D75-85B2-B3D420A37D38
+
+CProcessInfoPlistFile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/Info.plist /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Info.plist
+s420879522.368943
+e420879522.370389
+r1
+xProcessInfoPlistFile
+x/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/Info.plist
+x/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Info.plist151"ProcessInfoPlistFile DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/Info.plist TrafficPolice/TrafficPolice-Info.plist2c7f5ea21c16b941^67d25ea21c16b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Info.plist0000000000000000^1025"ProcessInfoPlistFile DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/Info.plist TrafficPolice/TrafficPolice-Info.plist    cd /Users/LiHong/开发/IOS/TrafficPolice    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Info.plist -genpkginfo /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/assetcatalog_generated_info.plist -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.36"1527A29E-EB15-462E-8A28-23D68368AAFB-
+bC2D551A0-8D13-43F2-B49E-4EB2C9FB380B
+
+CProcessPCH /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-ebmmmbxwyvifjjaomoofzmiraxfb/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420610935.983547
+e420610937.092882
+r1
+xProcessPCH
+x/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-ebmmmbxwyvifjjaomoofzmiraxfb/TrafficPolice-Prefix.pch.pch
+xTrafficPolice/TrafficPolice-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile TrafficPolice/TrafficPolice-Prefix.pch261"ProcessPCH DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-ebmmmbxwyvifjjaomoofzmiraxfb/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6beffb770312b941^8ec817790312b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Prefix.pch0000000000000000^3950"ProcessPCH DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-ebmmmbxwyvifjjaomoofzmiraxfb/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/开发/IOS/TrafficPolice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-generated-files.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-own-target-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-all-target-headers.hmap -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-project-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources/i386 -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources -F/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-ebmmmbxwyvifjjaomoofzmiraxfb/TrafficPolice-Prefix.pch.dia -MMD -MT dependencies -MF /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-ebmmmbxwyvifjjaomoofzmiraxfb/TrafficPolice-Prefix.pch.d -c /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Prefix.pch -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-eb36"0F0853CF-CD2D-448A-BA9E-DE4740A5406F-
+b6740335D-95F1-446E-94BA-6D62E43A9409
+
+CProcessPCH /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420879519.853322
+e420879520.890919
+r1
+xProcessPCH
+x/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch.pch
+xTrafficPolice/TrafficPolice-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile TrafficPolice/TrafficPolice-Prefix.pch261"ProcessPCH DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2784da9f1c16b941^f914e4a01c16b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/LiHong/%E5%BC%80%E5%8F%91/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Prefix.pch0000000000000000^3950"ProcessPCH DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/LiHong/开发/IOS/TrafficPolice    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-generated-files.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-own-target-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-all-target-headers.hmap -iquote /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/TrafficPolice-project-headers.hmap -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources/i386 -I/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/TrafficPolice.build/Debug-iphonesimulator/TrafficPolice.build/DerivedSources -F/Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch.dia -MMD -MT dependencies -MF /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gtdouonmedgbsbgeakvwsufxxmjx/TrafficPolice-Prefix.pch.d -c /Users/LiHong/开发/IOS/TrafficPolice/TrafficPolice/TrafficPolice-Prefix.pch -o /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Intermediates/PrecompiledHeaders/TrafficPolice-Prefix-gt36"FD9CF2C7-77AF-4FF9-9EA9-A4D912F29F76-
+bC2D551A0-8D13-43F2-B49E-4EB2C9FB380B
+
+CProcessPCH /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Index/PrecompiledHeaders/TrafficPolice-Prefix-cvxketvqsqfyasfipcduwndqwemz_ast/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Index/PrecompiledHeaders/TrafficPolice-Prefix-emtkjrpggubnuqfvdoubdpkohexe_ast/TrafficPolice-Prefix.pch.pch TrafficPolice/TrafficPolice-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/LiHong/开发/IOS/TrafficPolice/DerivedData/TrafficPolice/Build/Products/Debug-iphonesimulator/TrafficPolice.app
+r0
+

@@ -1,0 +1,546 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CD27285F1915E69C004E85F2 /* DashboardVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CD27285D1915E69C004E85F2 /* DashboardVC.m */; };
+		CD2728601915E69C004E85F2 /* DashboardVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD27285E1915E69C004E85F2 /* DashboardVC.xib */; };
+		CD2728671915E763004E85F2 /* actions@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD2728621915E763004E85F2 /* actions@2x.png */; };
+		CD2728681915E763004E85F2 /* gear@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD2728631915E763004E85F2 /* gear@2x.png */; };
+		CD2728691915E763004E85F2 /* magnifier@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD2728641915E763004E85F2 /* magnifier@2x.png */; };
+		CD27286A1915E763004E85F2 /* speech@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD2728651915E763004E85F2 /* speech@2x.png */; };
+		CD27286B1915E763004E85F2 /* twitter@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CD2728661915E763004E85F2 /* twitter@2x.png */; };
+		CD712A651911FA9100357CC6 /* TPStackMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = CD712A641911FA9100357CC6 /* TPStackMenu.m */; };
+		CD712A6A19120D4100357CC6 /* TPStackMenuItem.m in Sources */ = {isa = PBXBuildFile; fileRef = CD712A6919120D4100357CC6 /* TPStackMenuItem.m */; };
+		CD98AAC91911E8F9004CF756 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD98AAC81911E8F9004CF756 /* Foundation.framework */; };
+		CD98AACB1911E8F9004CF756 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD98AACA1911E8F9004CF756 /* CoreGraphics.framework */; };
+		CD98AACD1911E8F9004CF756 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD98AACC1911E8F9004CF756 /* UIKit.framework */; };
+		CD98AAD31911E8F9004CF756 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD98AAD11911E8F9004CF756 /* InfoPlist.strings */; };
+		CD98AAD51911E8F9004CF756 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CD98AAD41911E8F9004CF756 /* main.m */; };
+		CD98AAD91911E8F9004CF756 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CD98AAD81911E8F9004CF756 /* AppDelegate.m */; };
+		CD98AADB1911E8F9004CF756 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD98AADA1911E8F9004CF756 /* Images.xcassets */; };
+		CD98AAE21911E8F9004CF756 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD98AAE11911E8F9004CF756 /* XCTest.framework */; };
+		CD98AAE31911E8F9004CF756 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD98AAC81911E8F9004CF756 /* Foundation.framework */; };
+		CD98AAE41911E8F9004CF756 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD98AACC1911E8F9004CF756 /* UIKit.framework */; };
+		CD98AAEC1911E8F9004CF756 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD98AAEA1911E8F9004CF756 /* InfoPlist.strings */; };
+		CD98AAEE1911E8F9004CF756 /* TrafficPoliceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CD98AAED1911E8F9004CF756 /* TrafficPoliceTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CD98AAE51911E8F9004CF756 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CD98AABD1911E8F9004CF756 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CD98AAC41911E8F9004CF756;
+			remoteInfo = TrafficPolice;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CD27285C1915E69C004E85F2 /* DashboardVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DashboardVC.h; path = ../DashboardVC.h; sourceTree = "<group>"; };
+		CD27285D1915E69C004E85F2 /* DashboardVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DashboardVC.m; path = ../DashboardVC.m; sourceTree = "<group>"; };
+		CD27285E1915E69C004E85F2 /* DashboardVC.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DashboardVC.xib; path = ../DashboardVC.xib; sourceTree = "<group>"; };
+		CD2728621915E763004E85F2 /* actions@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "actions@2x.png"; sourceTree = "<group>"; };
+		CD2728631915E763004E85F2 /* gear@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gear@2x.png"; sourceTree = "<group>"; };
+		CD2728641915E763004E85F2 /* magnifier@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "magnifier@2x.png"; sourceTree = "<group>"; };
+		CD2728651915E763004E85F2 /* speech@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "speech@2x.png"; sourceTree = "<group>"; };
+		CD2728661915E763004E85F2 /* twitter@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitter@2x.png"; sourceTree = "<group>"; };
+		CD712A631911FA9100357CC6 /* TPStackMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPStackMenu.h; sourceTree = "<group>"; };
+		CD712A641911FA9100357CC6 /* TPStackMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPStackMenu.m; sourceTree = "<group>"; };
+		CD712A6819120D4100357CC6 /* TPStackMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPStackMenuItem.h; sourceTree = "<group>"; };
+		CD712A6919120D4100357CC6 /* TPStackMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPStackMenuItem.m; sourceTree = "<group>"; };
+		CD98AAC51911E8F9004CF756 /* TrafficPolice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficPolice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD98AAC81911E8F9004CF756 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		CD98AACA1911E8F9004CF756 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		CD98AACC1911E8F9004CF756 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		CD98AAD01911E8F9004CF756 /* TrafficPolice-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrafficPolice-Info.plist"; sourceTree = "<group>"; };
+		CD98AAD21911E8F9004CF756 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD98AAD41911E8F9004CF756 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		CD98AAD61911E8F9004CF756 /* TrafficPolice-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TrafficPolice-Prefix.pch"; sourceTree = "<group>"; };
+		CD98AAD71911E8F9004CF756 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		CD98AAD81911E8F9004CF756 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		CD98AADA1911E8F9004CF756 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		CD98AAE01911E8F9004CF756 /* TrafficPoliceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrafficPoliceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD98AAE11911E8F9004CF756 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		CD98AAE91911E8F9004CF756 /* TrafficPoliceTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrafficPoliceTests-Info.plist"; sourceTree = "<group>"; };
+		CD98AAEB1911E8F9004CF756 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD98AAED1911E8F9004CF756 /* TrafficPoliceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TrafficPoliceTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CD98AAC21911E8F9004CF756 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD98AACB1911E8F9004CF756 /* CoreGraphics.framework in Frameworks */,
+				CD98AACD1911E8F9004CF756 /* UIKit.framework in Frameworks */,
+				CD98AAC91911E8F9004CF756 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD98AADD1911E8F9004CF756 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD98AAE21911E8F9004CF756 /* XCTest.framework in Frameworks */,
+				CD98AAE41911E8F9004CF756 /* UIKit.framework in Frameworks */,
+				CD98AAE31911E8F9004CF756 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CD2728611915E763004E85F2 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				CD2728621915E763004E85F2 /* actions@2x.png */,
+				CD2728631915E763004E85F2 /* gear@2x.png */,
+				CD2728641915E763004E85F2 /* magnifier@2x.png */,
+				CD2728651915E763004E85F2 /* speech@2x.png */,
+				CD2728661915E763004E85F2 /* twitter@2x.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		CD712A5C1911F76900357CC6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				CD712A6B19120D4900357CC6 /* TPStackMenu */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		CD712A5D1911F7B500357CC6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				CD27285C1915E69C004E85F2 /* DashboardVC.h */,
+				CD27285D1915E69C004E85F2 /* DashboardVC.m */,
+				CD27285E1915E69C004E85F2 /* DashboardVC.xib */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		CD712A5E1911F7C400357CC6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		CD712A5F1911F7D600357CC6 /* WSClient */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = WSClient;
+			sourceTree = "<group>";
+		};
+		CD712A6B19120D4900357CC6 /* TPStackMenu */ = {
+			isa = PBXGroup;
+			children = (
+				CD2728611915E763004E85F2 /* images */,
+				CD712A631911FA9100357CC6 /* TPStackMenu.h */,
+				CD712A641911FA9100357CC6 /* TPStackMenu.m */,
+				CD712A6819120D4100357CC6 /* TPStackMenuItem.h */,
+				CD712A6919120D4100357CC6 /* TPStackMenuItem.m */,
+			);
+			name = TPStackMenu;
+			sourceTree = "<group>";
+		};
+		CD98AABC1911E8F9004CF756 = {
+			isa = PBXGroup;
+			children = (
+				CD98AACE1911E8F9004CF756 /* TrafficPolice */,
+				CD98AAE71911E8F9004CF756 /* TrafficPoliceTests */,
+				CD98AAC71911E8F9004CF756 /* Frameworks */,
+				CD98AAC61911E8F9004CF756 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CD98AAC61911E8F9004CF756 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CD98AAC51911E8F9004CF756 /* TrafficPolice.app */,
+				CD98AAE01911E8F9004CF756 /* TrafficPoliceTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CD98AAC71911E8F9004CF756 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CD98AAC81911E8F9004CF756 /* Foundation.framework */,
+				CD98AACA1911E8F9004CF756 /* CoreGraphics.framework */,
+				CD98AACC1911E8F9004CF756 /* UIKit.framework */,
+				CD98AAE11911E8F9004CF756 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CD98AACE1911E8F9004CF756 /* TrafficPolice */ = {
+			isa = PBXGroup;
+			children = (
+				CD712A5E1911F7C400357CC6 /* Model */,
+				CD712A5C1911F76900357CC6 /* View */,
+				CD712A5D1911F7B500357CC6 /* Controller */,
+				CD712A5F1911F7D600357CC6 /* WSClient */,
+				CD98AAD71911E8F9004CF756 /* AppDelegate.h */,
+				CD98AAD81911E8F9004CF756 /* AppDelegate.m */,
+				CD98AADA1911E8F9004CF756 /* Images.xcassets */,
+				CD98AACF1911E8F9004CF756 /* Supporting Files */,
+			);
+			path = TrafficPolice;
+			sourceTree = "<group>";
+		};
+		CD98AACF1911E8F9004CF756 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD98AAD01911E8F9004CF756 /* TrafficPolice-Info.plist */,
+				CD98AAD11911E8F9004CF756 /* InfoPlist.strings */,
+				CD98AAD41911E8F9004CF756 /* main.m */,
+				CD98AAD61911E8F9004CF756 /* TrafficPolice-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CD98AAE71911E8F9004CF756 /* TrafficPoliceTests */ = {
+			isa = PBXGroup;
+			children = (
+				CD98AAED1911E8F9004CF756 /* TrafficPoliceTests.m */,
+				CD98AAE81911E8F9004CF756 /* Supporting Files */,
+			);
+			path = TrafficPoliceTests;
+			sourceTree = "<group>";
+		};
+		CD98AAE81911E8F9004CF756 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD98AAE91911E8F9004CF756 /* TrafficPoliceTests-Info.plist */,
+				CD98AAEA1911E8F9004CF756 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CD98AAC41911E8F9004CF756 /* TrafficPolice */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD98AAF11911E8F9004CF756 /* Build configuration list for PBXNativeTarget "TrafficPolice" */;
+			buildPhases = (
+				CD98AAC11911E8F9004CF756 /* Sources */,
+				CD98AAC21911E8F9004CF756 /* Frameworks */,
+				CD98AAC31911E8F9004CF756 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TrafficPolice;
+			productName = TrafficPolice;
+			productReference = CD98AAC51911E8F9004CF756 /* TrafficPolice.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CD98AADF1911E8F9004CF756 /* TrafficPoliceTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD98AAF41911E8F9004CF756 /* Build configuration list for PBXNativeTarget "TrafficPoliceTests" */;
+			buildPhases = (
+				CD98AADC1911E8F9004CF756 /* Sources */,
+				CD98AADD1911E8F9004CF756 /* Frameworks */,
+				CD98AADE1911E8F9004CF756 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CD98AAE61911E8F9004CF756 /* PBXTargetDependency */,
+			);
+			name = TrafficPoliceTests;
+			productName = TrafficPoliceTests;
+			productReference = CD98AAE01911E8F9004CF756 /* TrafficPoliceTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CD98AABD1911E8F9004CF756 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "LiHong(410139419@qq.com)";
+				TargetAttributes = {
+					CD98AADF1911E8F9004CF756 = {
+						TestTargetID = CD98AAC41911E8F9004CF756;
+					};
+				};
+			};
+			buildConfigurationList = CD98AAC01911E8F9004CF756 /* Build configuration list for PBXProject "TrafficPolice" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CD98AABC1911E8F9004CF756;
+			productRefGroup = CD98AAC61911E8F9004CF756 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CD98AAC41911E8F9004CF756 /* TrafficPolice */,
+				CD98AADF1911E8F9004CF756 /* TrafficPoliceTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CD98AAC31911E8F9004CF756 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD2728671915E763004E85F2 /* actions@2x.png in Resources */,
+				CD98AAD31911E8F9004CF756 /* InfoPlist.strings in Resources */,
+				CD2728601915E69C004E85F2 /* DashboardVC.xib in Resources */,
+				CD2728681915E763004E85F2 /* gear@2x.png in Resources */,
+				CD98AADB1911E8F9004CF756 /* Images.xcassets in Resources */,
+				CD27286A1915E763004E85F2 /* speech@2x.png in Resources */,
+				CD27286B1915E763004E85F2 /* twitter@2x.png in Resources */,
+				CD2728691915E763004E85F2 /* magnifier@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD98AADE1911E8F9004CF756 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD98AAEC1911E8F9004CF756 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CD98AAC11911E8F9004CF756 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD98AAD91911E8F9004CF756 /* AppDelegate.m in Sources */,
+				CD712A651911FA9100357CC6 /* TPStackMenu.m in Sources */,
+				CD712A6A19120D4100357CC6 /* TPStackMenuItem.m in Sources */,
+				CD98AAD51911E8F9004CF756 /* main.m in Sources */,
+				CD27285F1915E69C004E85F2 /* DashboardVC.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD98AADC1911E8F9004CF756 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD98AAEE1911E8F9004CF756 /* TrafficPoliceTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CD98AAE61911E8F9004CF756 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CD98AAC41911E8F9004CF756 /* TrafficPolice */;
+			targetProxy = CD98AAE51911E8F9004CF756 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CD98AAD11911E8F9004CF756 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD98AAD21911E8F9004CF756 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CD98AAEA1911E8F9004CF756 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD98AAEB1911E8F9004CF756 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CD98AAEF1911E8F9004CF756 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		CD98AAF01911E8F9004CF756 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CD98AAF21911E8F9004CF756 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TrafficPolice/TrafficPolice-Prefix.pch";
+				INFOPLIST_FILE = "TrafficPolice/TrafficPolice-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		CD98AAF31911E8F9004CF756 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TrafficPolice/TrafficPolice-Prefix.pch";
+				INFOPLIST_FILE = "TrafficPolice/TrafficPolice-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		CD98AAF51911E8F9004CF756 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TrafficPolice.app/TrafficPolice";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TrafficPolice/TrafficPolice-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "TrafficPoliceTests/TrafficPoliceTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		CD98AAF61911E8F9004CF756 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TrafficPolice.app/TrafficPolice";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TrafficPolice/TrafficPolice-Prefix.pch";
+				INFOPLIST_FILE = "TrafficPoliceTests/TrafficPoliceTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD98AAC01911E8F9004CF756 /* Build configuration list for PBXProject "TrafficPolice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD98AAEF1911E8F9004CF756 /* Debug */,
+				CD98AAF01911E8F9004CF756 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD98AAF11911E8F9004CF756 /* Build configuration list for PBXNativeTarget "TrafficPolice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD98AAF21911E8F9004CF756 /* Debug */,
+				CD98AAF31911E8F9004CF756 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD98AAF41911E8F9004CF756 /* Build configuration list for PBXNativeTarget "TrafficPoliceTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD98AAF51911E8F9004CF756 /* Debug */,
+				CD98AAF61911E8F9004CF756 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD98AABD1911E8F9004CF756 /* Project object */;
+}
