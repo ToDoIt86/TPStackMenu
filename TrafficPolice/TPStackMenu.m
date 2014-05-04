@@ -94,7 +94,7 @@
         [UIView animateWithDuration:0.15 delay:0 options:UIViewAnimationOptionCurveEaseIn animations:^{
             stackMenuItem.center = center;
             stackMenuItem.alpha = 1.0;
-        } completion:^(BOOL finished) {
+        } completion:^(BOOL finished) { 
             [stackMenuItem springEffect];
         }];
     }
