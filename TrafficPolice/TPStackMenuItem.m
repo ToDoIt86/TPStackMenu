@@ -24,6 +24,7 @@
         UIImageView *iconImageView = [[UIImageView alloc] initWithFrame:newRect];
         [iconImageView setImage:image];
         [iconImageView setTag:kTagIconImageView];
+        iconImageView.autoresizingMask = UIViewAutoresizingFlexibleLeftMargin;
         [self addSubview:iconImageView];
         
         CGFloat cornerRadius = 5.0;
@@ -41,10 +42,16 @@
         titleLabel.text = title;
         titleLabel.textColor = [UIColor whiteColor];
         titleLabel.textAlignment = NSTextAlignmentCenter;
+        titleLabel.autoresizingMask = UIViewAutoresizingFlexibleLeftMargin;
         titleLabel.layer.cornerRadius = cornerRadius;
         titleLabel.layer.backgroundColor = [UIColor colorWithWhite:0 alpha:0.5].CGColor;
-        
         [self addSubview:titleLabel];
+        
+        CGRect unionRect = CGRectUnion(iconImageView.frame, titleLabel.frame);
+        newRect = self.frame;
+        newRect.size = unionRect.size;
+        newRect.origin.x = unionRect.origin.x;
+        self.frame = newRect;
     }
     
     return self;
@@ -73,5 +80,19 @@
     
     UIView *iconView = [self viewWithTag:kTagIconImageView];
     [iconView.layer addAnimation:animationGroup forKey:nil];
+}
+
+- (void)clickedEffect
+{
+    CABasicAnimation *scalAnimation = [CABasicAnimation animationWithKeyPath:@"transform"];
+    scalAnimation.timingFunction = [CAMediaTimingFunction functionWithName:kCAMediaTimingFunctionEaseInEaseOut];
+    scalAnimation.duration = 0.125;
+    scalAnimation.repeatCount = 1;
+    scalAnimation.autoreverses = YES;
+    scalAnimation.removedOnCompletion = YES;
+    scalAnimation.toValue = [NSValue valueWithCATransform3D:CATransform3DMakeScale(1.5, 1.5, 1.0)];
+    
+    UIView *iconView = [self viewWithTag:kTagIconImageView];
+    [iconView.layer addAnimation:scalAnimation forKey:nil];
 }
 @end

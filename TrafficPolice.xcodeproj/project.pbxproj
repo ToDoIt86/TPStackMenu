@@ -53,7 +53,7 @@
 		CD712A641911FA9100357CC6 /* TPStackMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPStackMenu.m; sourceTree = "<group>"; };
 		CD712A6819120D4100357CC6 /* TPStackMenuItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TPStackMenuItem.h; sourceTree = "<group>"; };
 		CD712A6919120D4100357CC6 /* TPStackMenuItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TPStackMenuItem.m; sourceTree = "<group>"; };
-		CD98AAC51911E8F9004CF756 /* TrafficPolice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficPolice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD98AAC51911E8F9004CF756 /* 林城交警.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "林城交警.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD98AAC81911E8F9004CF756 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CD98AACA1911E8F9004CF756 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		CD98AACC1911E8F9004CF756 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -164,7 +164,7 @@
 		CD98AAC61911E8F9004CF756 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CD98AAC51911E8F9004CF756 /* TrafficPolice.app */,
+				CD98AAC51911E8F9004CF756 /* 林城交警.app */,
 				CD98AAE01911E8F9004CF756 /* TrafficPoliceTests.xctest */,
 			);
 			name = Products;
@@ -242,7 +242,7 @@
 			);
 			name = TrafficPolice;
 			productName = TrafficPolice;
-			productReference = CD98AAC51911E8F9004CF756 /* TrafficPolice.app */;
+			productReference = CD98AAC51911E8F9004CF756 /* 林城交警.app */;
 			productType = "com.apple.product-type.application";
 		};
 		CD98AADF1911E8F9004CF756 /* TrafficPoliceTests */ = {
@@ -451,7 +451,7 @@
 				GCC_PREFIX_HEADER = "TrafficPolice/TrafficPolice-Prefix.pch";
 				INFOPLIST_FILE = "TrafficPolice/TrafficPolice-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "林城交警";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -465,7 +465,7 @@
 				GCC_PREFIX_HEADER = "TrafficPolice/TrafficPolice-Prefix.pch";
 				INFOPLIST_FILE = "TrafficPolice/TrafficPolice-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "林城交警";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

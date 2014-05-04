@@ -13,4 +13,5 @@
 - (instancetype)initWithFrame:(CGRect)frame title:(NSString *)title image:(UIImage *)image;
 
 - (void)springEffect;
+- (void)clickedEffect;
 @end

@@ -67,6 +67,7 @@
             UIImage  *image = [images objectAtIndex:i];
             
             TPStackMenuItem *stackMenuItem = [[TPStackMenuItem alloc] initWithFrame:newRect title:title image:image];
+            stackMenuItem.tag = i;
             stackMenuItem.alpha  = 0.0;
 
             [self addSubview:stackMenuItem];
@@ -94,7 +95,7 @@
         [UIView animateWithDuration:0.15 delay:0 options:UIViewAnimationOptionCurveEaseIn animations:^{
             stackMenuItem.center = center;
             stackMenuItem.alpha = 1.0;
-        } completion:^(BOOL finished) { 
+        } completion:^(BOOL finished) {
             [stackMenuItem springEffect];
         }];
     }
@@ -124,8 +125,29 @@
     }
 }
 
-- (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
+
+- (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event
 {
+      UITouch *touch = [[touches allObjects] lastObject];
+    for(TPStackMenuItem *item in self->_stackMenuItems)
+    {
+        CGPoint point = [touch locationInView:item];
+        if([item pointInside:point withEvent:nil])
+        {
+            [item clickedEffect];
+            dispatch_after(dispatch_time(DISPATCH_TIME_NOW,
+                            (int64_t)(0.3 * NSEC_PER_SEC)),
+                                 dispatch_get_main_queue(), ^{
+                                     
+                self->_stackMenuBlock(item.tag);
+                [self dismiss];
+            });
+            
+            return;
+        }
+    }
+    
     [self dismiss];
 }
+
 @end
